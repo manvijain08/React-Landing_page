@@ -1,0 +1,31 @@
+.footer {
+  background-color: grey;
+}
+
+.head {
+  margin-left: 580px;
+  padding: 20px;
+}
+
+.between {
+  margin-left: 20px;
+}
+
+.img {
+  height: 15px;
+  width: 15px;
+  margin-left: 10px;
+}
+
+#str2 {
+  height: 50px;
+}
+
+.two {
+  margin: 20px;
+}
+
+.foot {
+  display: flex;
+  justify-content: space-evenly;
+}
